@@ -1,0 +1,14 @@
+{
+  "diseases": [
+    { "name": "Powdery Mildew", "signs": "White powdery patches on leaves", "care": "Remove affected leaves, improve air flow, avoid overhead watering; apply baking soda spray (mild)." },
+    { "name": "Leaf Spot", "signs": "Brown/black spots with yellow halos", "care": "Prune, remove debris, avoid wet leaves; copper-based homemade sprays can help." },
+    { "name": "Root Rot", "signs": "Wilting despite wet soil, brown mushy roots", "care": "Improve drainage, reduce watering, repot with dry mix, remove rotten roots." },
+    { "name": "Aphids", "signs": "Sticky leaves, clusters of tiny insects", "care": "Spray water jet, wipe with soap solution, encourage ladybugs." }
+  ],
+  "agriGuidance": [
+    "Water early morning; avoid water on leaves at night.",
+    "Use clean, sharp tools to prevent spread.",
+    "Rotate crops; do not plant same family repeatedly.",
+    "Mulch soil to retain moisture and suppress weeds."
+  ]
+}
