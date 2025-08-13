@@ -1,0 +1,16 @@
+{
+  "generalTips": [
+    "Measure temperature, pulse, and check for warning signs (severe chest pain, stroke signs, difficulty breathing).",
+    "Hydrate with clean water unless restricted; rest in a cool, ventilated place.",
+    "For fever: light clothing, tepid sponging if high fever; avoid alcohol rubs.",
+    "For cough/cold: warm fluids, steam inhalation with caution; honey for adults/older children.",
+    "For stomach upset: ORS for diarrhea; avoid street foods; bland diet (banana, rice, curd)."
+  ],
+  "symptoms": [
+    { "keywords": ["fever","temperature","hot","chills"], "advice": "If fever < 3 days and no red flags, hydrate, paracetamol as per weight, monitor. Seek care if > 102°F, stiff neck, confusion, dehydration, or persists >3 days." },
+    { "keywords": ["cough","cold","sore throat"], "advice": "Rest, warm fluids, salt water gargles, avoid smoke. If breathlessness, chest pain, high fever, or symptom >1 week — consult a clinician." },
+    { "keywords": ["vomit","nausea"], "advice": "Small sips of ORS, avoid oily food. Seek care if blood in vomit, severe dehydration, or abdominal pain." },
+    { "keywords": ["diarrhea","loose motions"], "advice": "ORS after each stool, zinc for children per protocol. Seek help if blood in stool or signs of dehydration." },
+    { "keywords": ["chest pain"], "advice": "If crushing chest pain with sweat/nausea — treat as emergency; rest; chew aspirin if not allergic; call 112." }
+  ]
+}
