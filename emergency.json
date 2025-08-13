@@ -1,0 +1,29 @@
+{
+  "cpr": {
+    "brief": [
+      "Check response & breathing",
+      "Call 112 / ask someone to call",
+      "30 chest compressions: rate 100–120/min, depth ~5–6 cm",
+      "2 rescue breaths (if trained & safe)",
+      "Continue 30:2 until help arrives"
+    ],
+    "detailed": [
+      "Ensure scene safety; tap and shout to check responsiveness.",
+      "Call 112 (India) or ask a bystander to call; get an AED if available.",
+      "Place heel of one hand on center of chest (lower half of sternum), other hand on top, fingers interlaced.",
+      "Keep arms straight; compress 5–6 cm at 100–120 per minute. Allow full chest recoil.",
+      "After 30 compressions, give 2 rescue breaths (if trained) — each ~1 second, watch chest rise.",
+      "Minimize interruptions; continue cycles of 30:2; switch compressors every 2 minutes if possible.",
+      "If an AED arrives, turn it on and follow prompts immediately."
+    ]
+  },
+  "contactsHyderabad": [
+    { "name": "Single Emergency Helpline", "number": "112" },
+    { "name": "Police", "number": "100" },
+    { "name": "Fire", "number": "101" },
+    { "name": "Ambulance (108)", "number": "108" },
+    { "name": "Ambulance (102)", "number": "102" },
+    { "name": "Women Helpline", "number": "1091" },
+    { "name": "Childline", "number": "1098" }
+  ]
+}
